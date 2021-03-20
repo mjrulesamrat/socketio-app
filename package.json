@@ -1,0 +1,23 @@
+{
+  "name": "socketio-app",
+  "version": "1.0.0",
+  "description": "socketio demo with node",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@mjrulesamrat.github.com:mjrulesamrat/socketio-app.git"
+  },
+  "keywords": [
+    "socketio"
+  ],
+  "author": "Jay Modi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "socket.io": "^4.0.0"
+  }
+}
